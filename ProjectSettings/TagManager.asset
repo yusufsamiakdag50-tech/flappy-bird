@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2039677545
+    locked: 0
+  - name: pipe
+    uniqueID: 1942102349
+    locked: 0
+  - name: zemin
+    uniqueID: 2793077269
+    locked: 0
+  - name: bird
+    uniqueID: 2138817073
+    locked: 0
+  m_RenderingLayers:
+  - Default
